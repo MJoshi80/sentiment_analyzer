@@ -42,10 +42,10 @@ python -c "import nltk; nltk.download('vader_lexicon')"
     python main.py
     ```
 3.  **Menu Options**:
-    * **1**: Log a new entry about your day [cite: main.py].
-    * **2**: View all your saved entries [cite: main.py].
-    * **3**: Generate a weekly summary and see your average sentiment [cite: main.py].
-    * **0**: Exit the program [cite: main.py].
+    * **1**: Log a new entry about your day.
+    * **2**: View all your saved entries.
+    * **3**: Generate a weekly summary and see your average sentiment.
+    * **0**: Exit the program.
 
 ---
 
